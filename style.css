@@ -1,0 +1,38 @@
+.bg1{
+    background-image: url('./assets/bg1.jfif');
+    /* background-repeat:; */
+}
+
+.bg9{
+    background-image: url('./assets/bg9.jfif');
+    /* background-repeat:no-repeat; */
+}
+
+.bg2{
+    background-image: url('./assets/bg2.jfif');
+    background-repeat:no-repeat;
+}
+.bg3{
+    background-image: url('./assets/bg3.jfif');
+    background-repeat:no-repeat;
+}
+.bg4{
+    background-image: url('./assets/bg4.jfif');
+    background-repeat:no-repeat;
+}
+
+.bg5{
+    background-image: url('./assets/bg5.jfif');
+    background-repeat:no-repeat;
+}
+
+
+.textstyle{
+    -webkit-transform: rotate(180deg);
+    writing-mode: tb-rl;
+}
+
+.bg8{
+    background-image: url('./assets/bg-8.jfif');
+    /* background-repeat:; */
+}
