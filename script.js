@@ -48,3 +48,9 @@ var btnclose1 = document.getElementById("btnclose1").style;
     btnclose1.display="none";
     sidenav.left="-100%";
  }
+
+
+ function url() {
+    fbq("track", "Purchase");
+    location.href = "https://chat.whatsapp.com/DEwTmeThw93BqGjowUxCfE";
+  }
